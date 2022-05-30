@@ -1,7 +1,7 @@
 # HEROKU MEGA INDEX
 ---------------------
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/acheleies/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
 #### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 ###### heroku-rclone-serve V3
@@ -9,9 +9,9 @@
 Serves mega.nz to http via heroku web.
 This creates a backdoor for mega storage and serves publicly.
 
-[HEROKU RAPID DEPLOYMENT AVAILABLE](https://developeranaz.github.io/Mega-index-heroku/random.sh) without froking or github account.
+[HEROKU RAPID DEPLOYMENT AVAILABLE](https://acheleies.github.io/Mega-index-heroku/random.sh) without froking or github account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/Mega-index-heroku/random.html)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://acheleies.github.io/Mega-index-heroku/random.html)
 
 ZEET RAPID DEPLOYMENT AVAILABLE 👇
 [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega-index-heroku)
